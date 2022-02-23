@@ -1,0 +1,716 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The school of grace; or, A book of good nurture for the admonition and instruction of youth and age in the fear of the Lord. With godly instructions, graces, &amp; prayers describing the whole duty of a Christian. By J. Hart, B.B. The 19th. edition. Fear God, honour the King.</title>
+            <author>Hart, John, D.D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45733</idno>
+            <idno type="STC">Wing H959E</idno>
+            <idno type="STC">ESTC R215662</idno>
+            <idno type="EEBO-CITATION">99827462</idno>
+            <idno type="PROQUEST">99827462</idno>
+            <idno type="VID">31880</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45733)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31880)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1909:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The school of grace; or, A book of good nurture for the admonition and instruction of youth and age in the fear of the Lord. With godly instructions, graces, &amp; prayers describing the whole duty of a Christian. By J. Hart, B.B. The 19th. edition. Fear God, honour the King.</title>
+                  <author>Hart, John, D.D.</author>
+               </titleStmt>
+               <extent>[48] p. : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Thackeray and T. Passinger,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-C.</note>
+                  <note>With woodcut illustrations throughout.</note>
+                  <note>Place and date of publication from Wing, which suggests publication date 1686-1688.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Biblical teaching --  Early works to 1800.</term>
+               <term>Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:31880:1"/>
+            <p>
+               <figure/>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:31880:2"/>
+            <pb facs="tcp:31880:2"/>
+            <p>The School of GRACE, Or, <hi>A Book of Good Nurture,</hi> for the Admonition and Inſtruction of Youth and Age in the fear of the Lord. With Godly Inſtructions, Graces, &amp; Pray<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs deſcribing the whole Duty of a Chriſtian.</p>
+            <p>By <hi>I. Hart,</hi> B. B.</p>
+            <p>The <hi>19th.</hi> Edition.</p>
+            <p>Fear God, Honour the King.</p>
+            <figure/>
+            <p>Printed for <hi>W. Thackeray</hi> and <hi>I. Par ſinger.</hi>
+            </p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:31880:3"/>
+            <p>
+               <figure/>
+            </p>
+            <q>
+               <p>Come ye Children, hearken unto me and I will teach you the fear o<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Lord,</p>
+               <bibl>
+                  <hi>Pſalm 34.11:</hi>
+               </bibl>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="lesson">
+            <pb facs="tcp:31880:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Epheſ.</hi> 6.1, 2, 3, 4, 5, 6.</bibl>
+                  <p>
+                     <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hildren obey your Parents in the Lord, for this is right.</p>
+                  <p>
+                     <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>onour thy Father and Mother (Which is the firſt Commandment with promiſe.) <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>t it is may be well with thee, and thou mayeſt live long on the Earth.</p>
+                  <p>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>l ye Fathers provoke not your Chil<g ref="char:EOLhyphen"/>dren to wrath; but bring them up in the Nurture and Admonition of the Lord.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He Bleſſed Apoſtle, in the former Chapter; having laid down several Chiſtian duties in the general, comes here to aſſert and lay down the ſeveral Duties.</p>
+            <list>
+               <item>1. Of Husbands and Wives.</item>
+               <item>2. Of Children and Parents.</item>
+               <item>3. Of Maſters and Servants.</item>
+            </list>
+            <pb facs="tcp:31880:4"/>
+            <p> Theſe words contain the particular Du<g ref="char:EOLhyphen"/>ties of Children and Parents; <hi>Children obey your Parent;</hi> here is the Childrens Duty.</p>
+            <p>Secondly, here is the manner of perform<g ref="char:EOLhyphen"/>ance of this Duty, <hi>in the Lord; Children obey, your Parents in the Lord.</hi>
+            </p>
+            <p>In the next place the Apoſtle does lay down ſeveral Reaſons and motives to en<g ref="char:EOLhyphen"/>courage Chriſtian Children to this Chiſtian Duty.</p>
+            <p n="1">
+               <hi>1.</hi> It is GODS Commandment ſo to do: <hi>Honour thy Father and Mother.</hi>
+            </p>
+            <p n="2">
+               <hi>2.</hi> It is very beneficial for Children ſo to do; for firſt it ſhall be well with them if they do ſo, and ſecondly, <hi>their days ſhall be long upon the Earth:</hi> In the ſecond place, we have here the duty of Parents; Firſt, Negatively, what Pa<g ref="char:EOLhyphen"/>rents ſhould not by. And then ſecondly, Af<g ref="char:EOLhyphen"/>firmatively, what they ſhould do.</p>
+            <p n="1">
+               <hi>1.</hi> Negatively, they ſhould not <hi>provoke their Children to Wrath.</hi>
+            </p>
+            <p>And <hi>2.</hi> Affirmatively, <hi>They muſt bring them up in the nurture and admonition of the Lord.</hi>
+            </p>
+            <p>From the words thus opened, I gather theſe two Obſervations.</p>
+            <list>
+               <pb facs="tcp:31880:4"/>
+               <item>
+                  <hi>1. That it is the duty of Children to obey their Parents in the Lord.</hi>
+               </item>
+               <item>
+                  <hi>2. That it is, the duty of Parents to E<g ref="char:EOLhyphen"/>ducate, inſtruct, and bring up their Chil<g ref="char:EOLhyphen"/>dren in the fear of the Lord.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Hearken to thy Father that begat thee, with Solomon, and deſpiſe not thy Mother when ſhe is old,</hi> Prov. <hi>23.22.</hi>
+            </p>
+            <p>
+               <hi>Train up a Child in his Youth, ſaith So<g ref="char:EOLhyphen"/>lomon, in the way he ſhould go, and he will not depart from it,</hi> Prov. <hi>22.6.</hi>
+            </p>
+            <p>Now that I may the better enforce this Duty, I ſhall a little open the particular duties of both. For one main reaſon why Children do ſo much neglect their Duty, is becauſe Parents are ſo negligent of their own Duties: for it Parents did take more care (as their Duty is) to bring up their Children in the fear of God, ſurely Children would make more Conſcience of perform<g ref="char:EOLhyphen"/>ing their duty to their Parents. And that Children and Parents for the time to come may the better perform their Duties, I ſhall ſay down ſundry Chriſtian and Bodly Directions, ſuitable to all perſons upon
+<pb facs="tcp:31880:5"/>all occaſions, and ſo conclude with ſome few patierns of Prayers and Graces, for the better beneſit and Inſtruction of Children in the ſeat of God.</p>
+            <p>The firſt Duty of Parents is, That they give their Children <hi>Chriſtian</hi> Baptiſm, and thereby to Dedicate them unto the Lord.</p>
+            <p>
+               <hi>Secondly,</hi> Give unto your Children good Examples, for Children are prone by nature to follow the had Example of any, more eſpecially their Parents.</p>
+            <p>
+               <hi>Thirdly,</hi> Pray unto God for a Bleſſing upon thy Children, that God would make them his Children, by enriching their Souls with Grace.</p>
+            <p>
+               <hi>Fourthly,</hi> Learn to inſtruct them be times by ſome good Catechiſms, in the Principles of <hi>Chriſtian Religion:</hi> and to Instruction, wiſely and Correction: <hi>For he that ſpareth the Rod, ſaith</hi> Solomon, <hi>ha<g ref="char:EOLhyphen"/>teth his Child, but he that loveth him Chaſtneth him.</hi>
+            </p>
+            <p>
+               <hi>Fifthly,</hi> Keep a conſtant and awful Au<g ref="char:EOLhyphen"/>thority over them, not ſuffeting them to be irrevetent: for this end, according to anti<g ref="char:EOLhyphen"/>ent and laudible cuſtom, teech them reverent<g ref="char:EOLhyphen"/>ly to ask thee bleſſing on their Knees.</p>
+            <pb facs="tcp:31880:5"/>
+            <p> 
+               <hi>Sixthly,</hi> Labour to ſuppreſs all Sin, and wickedneſs in thy Children: and to this end ſuffer them not to lye, ſwear, curſe, or pro<g ref="char:EOLhyphen"/>phane the Lords day, elſe will thy Children have cauſe to curse thee to all Eternity. We find it recorded in Scripture of Goodly Parents, Educating their Children in the fear of the Lord: <hi>Abraham</hi> commanded his Children and Servants, <hi>Gen. 8.16.</hi> So likewiſe <hi>Joſhua,</hi> and holy <hi>David, Job,</hi> and others. The Godly Life of the Child diſcovers the Godlineſs of the Parents: and thus if thou laboureſt to bring up thy Children in the fear of God, that thy Chil<g ref="char:EOLhyphen"/>dren may be Gods Children, how Gloriouſly then have you provided for them? God is their Father, and they that have God for their Father ſhall never want: for as the Apoſtle ſaith, <hi>Godlineſs is profitable, ha<g ref="char:EOLhyphen"/>ving the promiſe of the Life that now is and the Life to come.</hi> Though thou leaveſs but a little of this World, yet remember God hath provided a Kingdom for them that ſerve him.</p>
+            <p>
+               <hi>Laſtly,</hi> Cauſe thy Children friquently to frequent the Ordinances of Chriſt, both publique and private; do not only pray with them and for them, but cauſe them to pray
+<pb facs="tcp:31880:6"/>for themſelves, and one for another; bring them conſtantly to hear the publick Preach<g ref="char:EOLhyphen"/>ing of the word of God, and be aſſured by the bleſſing of God, your Children may be inriched with Grace here, and filled with glo<g ref="char:EOLhyphen"/>ry hereafter; and in ſo doing thou may'ſt have joy and comfort; God may have Glory and honour, and thy Children Everlaſting life, through Ieſus Chriſt.</p>
+            <p>Now the Duty of Children to their Pa<g ref="char:EOLhyphen"/>rents, in the firſt place you ſee, is Obedience; <hi>Children obey your Parents in the Lord;</hi> And this obedience of Children to their Parents, you ſee it muſt be in the Lord, and only in the Lord: for if Parents com<g ref="char:EOLhyphen"/>mand their Children to do any thing con<g ref="char:EOLhyphen"/>trary to the Word of God, then hey are not to obey them, they ſin in ſo doing, for remember we muſt obey God rather than Man.</p>
+            <p>Children are to learn good Inſtructions from their Parents; <hi>My Son,</hi> ſaith <hi>Solo<g ref="char:EOLhyphen"/>mon, hear the Inſtruction of thy Father, and forfake not the law of thy Mother,</hi> Prov. <hi>1.1. &amp;c.</hi>
+            </p>
+            <p n="3">
+               <hi>3.</hi> Children are to honour and reverence their Parents; <hi>Honour thy Father and thy M<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>her,</hi> (ſaith the Lord) Honour thy
+<pb facs="tcp:31880:6"/>Parents, by thy modeſt, ſilent, humble and reſpective carriage towards them.</p>
+            <p>Fourthly, Children ought to be thankful to their Parents, endeavouting if need be, to requite them for their Fatherly love and care towards them: honouring, relieving, and ſupplying them in all their ſeveral needs and neceſſities. And thus much briefly of the Duries of Parents and Children.</p>
+            <p>I come now in the next place to give you ſome directions and inſtructions for the bet<g ref="char:EOLhyphen"/>ter performance of thoſe ſeveral Duties: And my firſt advice to Children is, that they make daily Prayers to God. How precious a thing is it to hear Children praying, and low dreadful a thing to hear them Swearing and Curſing as ſoon as they can ſpeak: God loves to hear his Children Praying; our Saviour received little Children in his arms, and unto little Children the Kingdom of Heaven belongs: And as a good Man ſaith; I had rather have my Houſe filled with my Childrens Prayers, than with Diamonds and Pearls.</p>
+            <p>Secondly, Take heed of telling Lies: <hi>Lye not one to another,</hi> ſaith the Apoſtle, <hi>Let your Communion be year, yea, and
+<pb facs="tcp:31880:7"/>nay, nay,</hi> ſaith our Saviour. Remember Lyars ſhall have their part in Fire and Brimſtone, <hi>Rev. 22.4.</hi>
+            </p>
+            <p>Thirdly, Delight thy ſelf in Reading good Books, read not fooliſh and wanton Books and Ballads, which tend only to the nouriſhment of Vice.</p>
+            <p>Fourthly, Let not thy Children ſcoff and jeer at the Antient, be they never ſo poor; Remember the dreadful Iudgment of God upon thoſe wicked Children, in 2 <hi>Kin. 2.23, 24.</hi> who mocked and ſcoffed at the Propher, they in deriſion called they Propher Bald pate, and God in judgment for this wickedneſs, cauſed two Bears to devour two and forty of them. Love the Poor and plead their cauſe: remember what God ſaith, <hi>Bleſſed is he that conſidereth the Poor and Nee<g ref="char:EOLhyphen"/>dy.</hi>
+            </p>
+            <p>Fifthly frequent the Word of God, ſleep not at Churth, or at prayer, for remember, whoſoever ſleeps at Church, or at Prayer, the Devil rocks the Cradle.</p>
+            <p>Sixthly, Let thy Apparel be decent and comely; take heed of Pride in thy Apparel; Remember <hi>Jezabel</hi> her wicked end, how ſad<g ref="char:EOLhyphen"/>ly Gon met with her in her Painting; thoſe Perſons who are ſo curious in Painting and
+<pb facs="tcp:31880:7"/>dreſſing themſelves, ſurely the Devil holds them the Looking Glaſs.</p>
+            <p>Seventhly, Remember the Sabbath day to keep it Holy; for ſurely thoſe Children that Sweat and Lye, and break the Sabbath are the Devils Children, and they that ſpend the Sabbath in Playing and Caming, have the Devil for their Play-fellow. Take heed then, I ſay, that you make not the Lords day, a day of Sports and Paſtime: (as the Children of the Devil do.) Remember God hath allowed thee ſix days, do not then be ſo wicked as to rob him of the ſeventh: but God did not appoint the Sabbath for a day of ſporting and pleaſure, but for a day of Worſhipping and ſerving God, a Day for Preaching and Prayer: <hi>Remember the Sabbath day to keep it Holy.</hi>
+            </p>
+            <p>Eighthly. See that you reverence and eſteem the Miniſters of Gods Holy Word, account of them as they are indeed the Mini<g ref="char:EOLhyphen"/>ſters of Chriſt. Remember what our Sa<g ref="char:EOLhyphen"/>viour ſaith; <hi>He that deſpiſeth you,</hi> ſaith be to his Apoſtles, <hi>deſpiſeth me, and he that deſpiſeth me, ſhall be for ever deſpiſed of God.</hi>
+            </p>
+            <p>Ninthly, If thou beeſt a Child of God,
+<pb facs="tcp:31880:8"/>avoid then the Company of the Devils Chil<g ref="char:EOLhyphen"/>dren, that is, ſuch as Swear and Curſe, and Lye, and Steal, and uſe all manner of filthy talk. Keep not company with ſuch leaſt thou for thy pains learneſt their Vices, and ſo par<g ref="char:EOLhyphen"/>take of their puniſhment: that ſo when o<g ref="char:EOLhyphen"/>thers ſhall anſwer for their idle words, thou may'ſt be rewarded.</p>
+            <p>Tenthly, <hi>Love, honour and obey your Parents in the Lord:</hi> Conſider how God hath commanded you ſo to do; and God will ſeverely puniſh thoſe that diſpiſe their Pa<g ref="char:EOLhyphen"/>rents: ſee that dreadful place, <hi>Prov. 30.17. The eye that mocketh his Father and diſ<g ref="char:EOLhyphen"/>piſeth to obey his Mother, the Ravens of the Valley ſhall pick it out, and the young Eagle ſhall eat it.</hi>
+            </p>
+            <p>Eleventhly, <hi>Remember thy Creator in the days of thy Youth:</hi> Labour to ſerve God with the ſtrength and beſt of thy days: Live to God whilſt thou liveſt, and thou ſhalt be ſure to live with God when thou Dyelt: Remember <hi>Samuel,</hi> how he was dedicated to God from his Birth, and <hi>Timothy,</hi> how he rejoyed, that of a Child he had known the Holy Scriptures.</p>
+            <p>Laſtly, Walk conſtantly in the fear of the Lord, all the day long, in the Morning when
+<pb facs="tcp:31880:8"/>thou riſeſt, bleſs God for his merciful preſervation of thee the night paſt, give him thanks for that he hath given thee to ſee the light of another day, and when thou prepareſt thy ſelf for thy Bed, prepare thy ſelf as for thy Grave, remembrings that many go to Bed and never riſe again: and therefore do not ſleep till thou haft committed thy ſelf by Prayer to God; forſurely they that go to Bed without Praying, the Devil is their Bed-fel<g ref="char:EOLhyphen"/>low.</p>
+            <p>Now that thou mayeſt carefully perform thoſe things, in the firſt place ſeek to God by Prayer, for God loves Praying Children; be ſure to pray unto God both morning and thening, and when thou prayeſt ſay;</p>
+            <q>
+               <p>Our Father which art in Heaven, Hal<g ref="char:EOLhyphen"/>lowed be thy Name, Thy Kingdom come, Thy Will be done in Earth as it in Hea<g ref="char:EOLhyphen"/>ven: Give us this day our daily Bread: And ſorgive us our Treſpaſſes, as we for<g ref="char:EOLhyphen"/>give them thay Treſpaſs againſt us. And lead us not into Temptation. But deliver us from evil, for thine is the Kingdom, the power and glory, for ever and ever, <hi>Amen.</hi>
+               </p>
+            </q>
+            <p>This is the Prayer which Chriſt him<g ref="char:EOLhyphen"/>ſelf
+<pb facs="tcp:31880:9"/>commands us to uſe, and therefore it is called, <hi>The Lords Prayer,</hi> the beſt pat<g ref="char:EOLhyphen"/>tern for Prayer in the whole world. There<g ref="char:EOLhyphen"/>fore it were to be wiſhed, that all Parents would he careful to reach their Children the Lords Prayer, as ſoon as they can be fit to learn it, and having learned this by heart, then let them uſe ſome other, and ſo uſe both together.</p>
+            <div type="prayer">
+               <head>A ſhort form of Prayer, very neceſſary for Children and Youth, to be uſed in the Morning.</head>
+               <p>
+                  <hi>O Lord our God, thou art the Father of Heaven, and the Father of mercis, by whom alone we live, and move and have our being: who tookeſt us out of our Mothers Womb, &amp; haſt ever ſince pre<g ref="char:EOLhyphen"/>ſerved us to this day, bleſſed be thy name, We bleſs thee that thou haſt ſafely de<g ref="char:EOLhyphen"/>ſended us this night paſt, that thou haſt brought us ſafe to the beginning of ano<g ref="char:EOLhyphen"/>ther day; We pray thee defend us in the ſame by thu mighty power, and grant that this day we fall into no ſin; keep us ſafe from the tamptation of Sathan: Deliver us, we pray thee, from all evil; and grant
+<pb facs="tcp:31880:9"/>O Lord, that we may live this day, and all the reſt of our days, as becometh thy Children, in Holineſs and true Righteouſ<g ref="char:EOLhyphen"/>neſs: bleſs out Parents, O lord, give them Grace that they may bring us up in thy Commandments; as thou haſt made us their Children by nature, good Lord make us thy Children by Grace, that ſo we may obey our Parents, and ſerve thee our God all our days; that ſo it may be well with us here and here after: Bleſs, O Lord, all the reſt of our friend; O Lord, let our friends by thy friends; give us Grace to ſerve thee here with all our ſtrength, and with all our might, that ſo when this mortal Life ſhall be ended, we may live and reign with thee for ever in Glory Amen.</hi>
+               </p>
+               <p>The Lord bleſs us, and make his Fare to ſhine upon us, and the Lord be with us, both in our going forth and in our coming in, this day, and all our days, for ever and ever, <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <pb facs="tcp:31880:10"/>
+               <head>An Evening Prayer for Children.</head>
+               <p>O Moſt holy, moſt gracious, and moſt Glorious Lord God, we thy poor Chil<g ref="char:EOLhyphen"/>dren do here again proſtrate our ſelves be<g ref="char:EOLhyphen"/>fore thy Majeſty this Ovening, humly be<g ref="char:EOLhyphen"/>ſeeching thee for Ieſus Chirſt his ſake, to pardon and forgive us all our Sins, and to blot out our Tranſgreſſions our of thy Re<g ref="char:EOLhyphen"/>membrance; we confeſs Lord, we are by nature Children of Wrath, but we pray thee make us thy Children, O Lord, by Grace and Adoption: and as we grow in yeace, ſo Lord, we pray thee, let us grow in Grace; let us not be children in malice and witked<g ref="char:EOLhyphen"/>neſs but Chrildren in Love and Unity; as thou haſt loved us, O Lord, ſo we pray thee let us love thee our God, and love one ano<g ref="char:EOLhyphen"/>ther. Bleſs our parents in their Godles, eſpecially bleſs them in their Souls, bleſs them in their Baskets and in their Store: inſtruct them, O Lord, that they may in<g ref="char:EOLhyphen"/>ſtruct us, he with us all this Night in our down-lying, O Lord, let us ſleep in thy fear, let is lye down in the love, and riſe again in thy lavour, and grant, we beſeeth the, moſt merciful Father, that whether ſleep<g ref="char:EOLhyphen"/>ing of waking, living or dying, we may be always thine: watch over us this Night,
+<pb facs="tcp:31880:10"/>and defend us in the ſame by the mighty power, and preſerve us from ſin, defend us from Satan. continue thy love to us, and he with us and all ours: Bleſs, Guide, Peſerve, defend and keep us, both in Soul and in Body, this night and evermore; <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="lesson">
+               <p>And then if thou wouldeſt be a Child of God, always after Prayer in the morning, ſee that you Read ſome Leſſon of Chapter out of the Bible, and be always Reading of good Books, as <hi>The Practice of Piety; the Plain-mans Path-way to Heaven; Mrs. <hi>Baxter</hi>'s Call to the Unconverted; The Great Aſſize, the Silver Watch-Bell,</hi> and others: and be ſure thou never lookeſt upon any idle fooliſh jeſting Book, which tend only to the noutiſhment of Vice, and ſpending of precious time, but delight thy ſelf in reading the Holy Bible, and other Godly Books, that ſo the Lord may bleſs thee here, and thou mayeſt be bleſſed here<g ref="char:EOLhyphen"/>after, for Godlineſs hath not only the pro<g ref="char:EOLhyphen"/>miſe of this life, but of the life to come, that thou mayeſt give account at the great and Terrible Day of Iudgement, as well for every idle hour thou ſpendeſt, as for thery idle word thou ſpeakeſt: when thou
+<pb facs="tcp:31880:11"/>are diſpoſed to be merry, laying aſſde all un<g ref="char:EOLhyphen"/>godly Songs and Ballads, which tend only to the nouriſhment of Vice and Wickedneſs, and the corruption of Youth, <hi>If any be mer<g ref="char:EOLhyphen"/>ry let him ſing Pſalms;</hi> the Apoſtle doth not ſay, If any be merry, let him any merry Songs and merry Ballads; but <hi>if any be merry let him ſing Pſalms.</hi> And be ſure al<g ref="char:EOLhyphen"/>ways that you ſing with Grace in your heart, making melody to the Lord.</p>
+            </div>
+            <div type="Psalm">
+               <head>PSALM CXXVIII.</head>
+               <l>BLeſſed art thou that feareſt God, and walkeft in his way,</l>
+               <l>For of thy Labour thou ſhalt eat, Happy art thou I ſay,</l>
+               <l>Like fruitful Vine on the Houſe ſide, ſo doth thy Wife ſpring out,</l>
+               <l>The Children ſtand like Olive Plants, thy Table round about.</l>
+               <l>Thus art thou bleſt that feareſt God, and he ſhall let thee ſee,</l>
+               <l>The promiſed <hi>Jeruſalem,</hi> and her felicity.</l>
+               <l>Thou ſhalt thy Childrens Children ſee, to thy great joys increaſe,</l>
+               <l>And likewiſe Grace to <hi>Iſrael,</hi> proſperity and peace.</l>
+            </div>
+            <div type="lesson">
+               <pb facs="tcp:31880:11"/>
+               <p>
+                  <hi>Then in the next place be ſure to get and learn ſome good Catechiſm, that ſo thou mayeſt be inſtructed in the Principles of Re<g ref="char:EOLhyphen"/>ligion; as that excellent Catechiſm of Mr.</hi> Perkins, <hi>called,</hi> The ſix Principles of Re<g ref="char:EOLhyphen"/>ligion, <hi>Mr.</hi> Balls <hi>Catechiſm,</hi> &amp;c.</p>
+            </div>
+            <div type="catechism">
+               <head>A Short but Neceſſary <hi>Catechiſm</hi> for Children.</head>
+               <p>Q. <hi>WHo made you?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> God.</p>
+               <p>Q. <hi>For what did God make you?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> God made me that I might ſerve him and for his glory.</p>
+               <p>Q. <hi>Who Redeemed you?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Ieſus Chriſt.</p>
+               <p>Q. <hi>From what did Chriſt Ieſus Redeem you?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Ieſus Chriſt redeemed me by his blood from Sin and Hell.</p>
+               <p>Q. <hi>Who ſanctified and preſerved you?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> God the Holy Ghoſt.</p>
+               <p>Q. <hi>What is God?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> God is a Spirit.</p>
+               <pb facs="tcp:31880:12"/>
+               <p> Q. <hi>How many Gods are there?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> One only true God, divided into three perſons, God the Father, God the Son and God the Holy Ghoſt.</p>
+               <p>Q. <hi>In what ſtate did God make man at firſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> God made man at firſt after his own Image, in Righteouſneſs and True Ho<g ref="char:EOLhyphen"/>lineſs.</p>
+               <p>Q. <hi>Did man continue in this ſtate?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No.</p>
+               <p>Q. <hi>How did he fall?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By diſobeying the Commandments of God, in eating the forbidden Fruit.</p>
+               <p>Q. <hi>What followed thereupon?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Hereupon followed Sin, Death, and Hell.</p>
+               <p>Q. <hi>Did God leave man in this fallen eſtate?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No, God provided for fallen Man, a Saviour and Redeemer, our Lord Ieſus Chriſt the Righteous.</p>
+               <p>Q. <hi>How many Commandments are there?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Ten.</p>
+               <p>Q. <hi>Which be they? let me hear you rehearſe them,</hi>
+               </p>
+               <div type="commandments">
+                  <pb facs="tcp:31880:12"/>
+                  <figure>
+                     <figDesc>Moses with two tablets</figDesc>
+                  </figure>
+                  <p n="1">I. Thou ſhalt have no other Gods before me.</p>
+                  <p n="2">II. Thou ſhalt not make unto thee any graven Image, nor the likeneſs of any thing that is in Heaven above, or that is in the
+<pb facs="tcp:31880:13"/>Earth beneath, or that is in the water un<g ref="char:EOLhyphen"/>der the Earth: thou ſhalt not bow down to them, nor ſerve them; for I the Lord thy God, am a jealous God, viſiting the iniquity of the Fathers upon the Children, unto the third and fourth Generation of them that hate me, and ſhew mercy unto thouſands of them that love me and keep my Commandments.</p>
+                  <p n="3">III. Thou ſhalt not take the Name of the Lord thy God in vain, for the Lord will not hold him guiltleſs that taketh his name in vain.</p>
+                  <p n="4">IV. Remember the Sabbath-day to keep it holy, ſix days ſhalt thou labour and do all thy work, but the ſeventh day is the Sa<g ref="char:EOLhyphen"/>bath of the Lord thy God: in it thou ſhalt not do any work; thou, nor thy Son, nor thy Daughter, thy Man-Servant, nor thy Maid Servant, nor thy Cattel, nor the Stranger that is within thy gates, for in ſix days the Lord made Heaven and Earth, the Sea, and all that in them is, and reſted the ſeventh day, wherefore the Lord bleſ<g ref="char:EOLhyphen"/>ſed the Sabbath-day, and hallowed it.</p>
+                  <p n="5">
+                     <pb facs="tcp:31880:13"/> V. Honour thy Father and thy Mother, that thy days may be long in the Land which the Lord thy God giveth thee.</p>
+                  <p n="6">VI. Thou ſhalt not kill.</p>
+                  <p n="7">VII. Thou ſhalt not commit Adultery:</p>
+                  <p n="8">VIII. Thou ſhalt not ſteal.</p>
+                  <p n="9">IX. Thou ſhalt not bear falſe witneſs againſt thy Neighbour.</p>
+                  <p n="10">X. Thou ſhalt not covet thy Neighbours Houſe, thou ſhalt not covet thy Neigh<g ref="char:EOLhyphen"/>bours Wife, nor his Man Servant, nor his Maid-Servant, nor his Ox, nor his Aſs, nor any thing that is thy Neighbours.</p>
+               </div>
+            </div>
+            <div type="lesson">
+               <p>
+                  <hi>Q.</hi> What doſt thou chiefly learn by theſe Commandment.</p>
+               <p>A. <hi>I learn by theſe Commandments, that it is my duty to ſerve God according to his Word, and love my Neighbour as my ſelf.</hi>
+               </p>
+               <pb facs="tcp:31880:14"/>
+               <p> Q. <hi>Art thou able to keep the Com<g ref="char:EOLhyphen"/>mandments?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No.</p>
+               <p>Q. <hi>How then ſhalt thou expect to be ſaved?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Only by Faith in Ieſus Chriſt.</p>
+               <p>Q. <hi>What is Faith?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Faith is the Gift of God, whereby we lay hold on Ieſus Chriſt for Eternal Salvation. Rehearſe the Articles of the Chriſtian Faith.</p>
+            </div>
+            <div type="creed">
+               <p>
+                  <hi>I Believe in God the Father Almighty, maker of Heaven and Earth. And in Ieſus Chriſt his only Son our Lord, who was conceived by the Holy Ghoſt, born of the Virgin <hi>Mary,</hi> ſuffered under <hi>Pon<g ref="char:EOLhyphen"/>tius Pilate,</hi> was Crucified, Dead and Buried, he deſcended into Hell, the third day he aroſe again from the Dead, he aſ<g ref="char:EOLhyphen"/>cended into Heaven, and ſirteth at the Right hand of God the Father Almighty; from thence he ſhall come to judge both the quick and the Dead. I believe in the Holy Ghoſt, the Holy Catholick Church, the communion of Saints, the forgiveneſs of ſins, the Reſurrection of the Body, and the life Everlaſting: <hi>Amen.</hi>
+                  </hi>
+               </p>
+            </div>
+            <div type="graces">
+               <pb facs="tcp:31880:14"/>
+               <head>Certain Graces, fit to be learned of every Child that deſires to be a Child of God.</head>
+               <div type="grace">
+                  <head>Grace before Meat.</head>
+                  <p>VVHether ye eat or drink, ſaith St. <hi>Paul,</hi> do all to the Glory of God; <hi>Amen.</hi>
+                  </p>
+                  <p>BLeſſed Lord, in whom we live, move, and have our being, we do moſt humbly beſeech thee to bleſs theſe thy Creatures, to the uſe of our Bodies, ſanctifie them to us, and ſanctifie us to thy ſelf, forgive us our ſins, and make us partakers of thy heavenly Table; <hi>Amen.</hi>
+                  </p>
+                  <p>
+                     <hi>God ſave his Church, our King, Queen, and Realm, and ſend peace and Truth, in Chriſt our Lord: <hi>Amen.</hi>
+                     </hi>
+                  </p>
+               </div>
+               <div type="grace">
+                  <head>Grace after Meat.</head>
+                  <p>CHriſt, which at his Laſt Supper, gave himſelf unto us, promiſing his Body to he Crucified, and his blood to be ſhed for our ſins, bleſs us and our Meat; <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="grace">
+                  <pb facs="tcp:31880:15"/>
+                  <head>Grace before Meat.</head>
+                  <p>O Father of mercy and God of all conſo<g ref="char:EOLhyphen"/>lation, which haſt Created us for thy Glory, and theſe thy good Creatures for our uſe; bleſs and ſanctifie them we beſeech thee, that by the moderate receiving thereof, our Bodies may be nouriſhed, and thy name ther<g ref="char:EOLhyphen"/>more be praiſed, through Ieſus Chriſt our on<g ref="char:EOLhyphen"/>ly Lord and bleſſed Saviour, <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="grace">
+                  <head>Grace before Meat.</head>
+                  <p>O Merciful Lord Ieſus Chriſt, which didſt take the five Loaves and two Fiſh<g ref="char:EOLhyphen"/>es, and lifting up thine Eyes unto Heaven didſt diſtribute them unto the People, and they all did eat and were ſatisfied, being above the thouſand Men beſide Women and Chil<g ref="char:EOLhyphen"/>dren; we beſeech thee both to bleſs theſe Gifts which we are about to receive at thy hands, and us alſo, that they may be to the comfort and health of our Bodys, and we may (for them and other thy benefits) be ever<g ref="char:EOLhyphen"/>more thankful unto thee; To whom with the Father and the Holy Ghoſt, be all Honour and Glory for ever; <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="grace">
+                  <pb facs="tcp:31880:15"/>
+                  <head>Grace after Meat.</head>
+                  <p>O Lord God, Almighty and moſt dear Father, thou haſt not only given unto us meat and drink to ſuſtain our mortal bo<g ref="char:EOLhyphen"/>dies, but thou haſt likewiſe given unto us thy bleſſed VVord, which is the only food of our immortal Souls, through our bleſſed Lord and Saviour Ieſus Chriſt, to whom there<g ref="char:EOLhyphen"/>fore with thee and the Holy Ghoſt, be all ho<g ref="char:EOLhyphen"/>nour, praiſe and thanks for ever: <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="grace">
+                  <head>Grace after Meat.</head>
+                  <p>O Lord, which art the Creator of all Creatures, and haſt prepared Food for them according to the nature of their Crea<g ref="char:EOLhyphen"/>tion: We moſt heartily thank thee for theſe thy Creatures, which at this time we have re<g ref="char:EOLhyphen"/>ceived in thy Name, beſeeching thee O Fa<g ref="char:EOLhyphen"/>ther, that as our Bodies are now by theſe Gifts refreſhed, our Souls may be alſo nou<g ref="char:EOLhyphen"/>riſhed with the Food of Everlaſtings Life, in the moſt Holy Teſtament, confirmed with the blood and death of Ieſus Chriſt, thy Son our Saviour: to whom with thee and the Holy Ghoſt, be all Honour, Glory and praiſe for e<g ref="char:EOLhyphen"/>ver. <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="grace">
+                  <pb facs="tcp:31880:16"/>
+                  <head>Grace after Meat.</head>
+                  <p>BLeſſed be thy name, O Lord our God, for all thy mercies and favours continu<g ref="char:EOLhyphen"/>ally beſtowed upon us, thou that haſt at this time fed our weak Bodies with thy good creatures, we pray thee likewiſe to feed our Souls with the Heavenly food of thy word; that we receiving at thy Merciful Hands, food both for our Bodies and Souls, may live and grow in all Godlineſs, through Ie<g ref="char:EOLhyphen"/>ſus Chriſt our only Lord and Saviour; <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="grace">
+                  <head>Another after Meat.</head>
+                  <p>THe King of Eternal Glory, who hath at this time fed our Corporal Bodies, make us partakers of thy Heavenly Table; <hi>Amen.</hi>
+                  </p>
+               </div>
+               <div type="grace">
+                  <head>Grace after Meat.</head>
+                  <p>VVHatſoever you do in word or deed, do all in the Name of our Lord Ieſus Chriſt; give thanks unto God the Father by him, to whom all bleſſing, glory, wiſdom, thanks, honour, power, and might, be tendred for evermore: <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="lesson">
+               <pb facs="tcp:31880:16"/>
+               <head>Certain <hi>Q<g ref="char:V">Ʋ</g>ESTIONS</hi> with their ANSWERS, Neceſſary for Parents to ask and teach their children for their inſtruction in the Holy Scrip<g ref="char:EOLhyphen"/>tures.</head>
+               <p>
+                  <hi>Q</hi> VVHo was the firſt man?</p>
+               <p>A. <hi>Adam.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Who was the firſt Woman?</p>
+               <p>A. <hi>Eve.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Of what did <hi>God</hi> make man?</p>
+               <p>A. <hi>God made man of the duſt of the earth.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Of what did <hi>God</hi> make the Wo<g ref="char:EOLhyphen"/>man?</p>
+               <p>A. <hi>Of one of the Mans Ribs.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Where did <hi>Adam</hi> and <hi>Eve</hi> dwell?</p>
+               <p>A. <hi>In Paradice.</hi>
+               </p>
+               <pb facs="tcp:31880:17"/>
+               <p> 
+                  <hi>Q.</hi> What caſt <hi>Adam</hi> out of Paradice?</p>
+               <p>A. <hi>Sin.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Who was the beſt man?</p>
+               <p>A. <hi>The Man Chriſt Ieſus.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Who ſlew his Brother?</p>
+               <p>A. <hi>Tain.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Who was the firſt <hi>Martyr?</hi>
+               </p>
+               <p>A. <hi>Abel.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Who was the Oldeſt Man?</p>
+               <p>A. <hi>Methuſaleth.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Who was the man that God ſaved when he drowned the World?</p>
+               <p>A. <hi>Noah.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Who wreſtled with God;</p>
+               <p>A. <hi>Jacob.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What was his name called after he had wreſtled with God?</p>
+               <p>A. <hi>Iſrael.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> How many Sons had Jacob?</p>
+               <p>A. <hi>Twelve, of whom came the twelve Trives of Iſrael.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> VVhat were their names?</p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> Reuben and Simeon, and Levi, and Judah, and Iſachar, and Zebulun, and Jo<g ref="char:EOLhyphen"/>ſeph, and Benjamin, Dan, and Napthali, Gad and Aſhur.</hi> Theſe were the twelve Pa<g ref="char:EOLhyphen"/>triarchs.</p>
+               <pb facs="tcp:31880:17"/>
+               <p> 
+                  <hi>Q.</hi> Who was the Faithfuleſt Man that ever lived?</p>
+               <p>A. Abraham, <hi>who is called the Father of the faithful.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Who was the meekeſt Man?</p>
+               <p>A. <hi>Moſes.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Who was the hard-heartedſt man?</p>
+               <p>A. <hi>Pharaoh.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Who was the patienteſt man?</p>
+               <p>A. <hi>Iob.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Who was the man after Gods own heart?</p>
+               <p>A. <hi>David.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Who was the Wiſeſt man?</p>
+               <p>A. <hi>Solomon.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Who was the ſtrongeſt man?</p>
+               <p>A. <hi>Sampſon.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Who wrote the Scriptures?</p>
+               <p>A. <hi>Holy Men of God, inſpired by the Holy Ghoſt.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Who was it that came before Jeſus Chriſt?</p>
+               <p>A. John <hi>the Baptiſt.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Who was the firſt Martyr after Chriſt?</p>
+               <p>A. <hi>Stephen.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What death did he dye?</p>
+               <p>A. <hi>He was Stoned?</hi>
+               </p>
+               <pb facs="tcp:31880:18"/>
+               <p> 
+                  <hi>Q.</hi> Where was Chriſt born?</p>
+               <p>A. <hi>In</hi> Bethelem.</p>
+               <p>
+                  <hi>Q.</hi> Who was the Mother of our Lord Ieſus Chriſt?</p>
+               <p>A. <hi>The Uirgin</hi> Mary.</p>
+               <p>
+                  <hi>Q.</hi> Who was the reputed Father of our Lord Jeſus Chriſt?</p>
+               <p>A. Joſeph <hi>a Carpenter.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Who betrayed his Lord &amp; Maſter?</p>
+               <p>A. <hi>Iudas.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What did he betray him for?</p>
+               <p>A. <hi>For the love of Money, which is the root of all evil.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> For how much money did <hi>Judas</hi> ſell his maſter?</p>
+               <p>A. <hi>For thirty pieces of Silver.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What became of <hi>Iudas</hi> after he had betrayed Chriſt?</p>
+               <p>A. <hi>He went and Hanged himſelf.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Who denyed Chriſt?</p>
+               <p>A. <hi>Peter.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What became of <hi>Peter</hi> after he had denyed Chriſt?</p>
+               <p>A. <hi>He went out and wept bitterly.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Who Condemned Chriſt?</p>
+               <p>A. <hi>Pontius Pilate.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Who Crucified Jeſus Chriſt?</p>
+               <p>A. <hi>The Bloddy Jews.</hi>
+               </p>
+               <pb facs="tcp:31880:18"/>
+               <p> 
+                  <hi>Q.</hi> Out of whom did Chriſt caſt ſeven Devils</p>
+               <p>A. <hi>Mary Magdalen.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Which was the beloved Diſciple of Jeſus Chriſt?</p>
+               <p>A. <hi>John.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Who forſook Chriſt for the love of the World?</p>
+               <p>A. <hi>Demas.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Who are the beſt Children?</p>
+               <p>A. <hi>They that fear God and keep his Com<g ref="char:EOLhyphen"/>mandments, and obey their Parents.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> Who are the worſt Children?</p>
+               <p>A. <hi>They that Lye and Swear, Steal, and break the Sabbath, and diſpiſe God, and break his Holy and Righteous Commande<g ref="char:EOLhyphen"/>ments.</hi>
+               </p>
+               <p>
+                  <hi>Q.</hi> What become of the Wicked when they dye?</p>
+               <p>A. <hi>They are caſt into Hell, there to be tor<g ref="char:EOLhyphen"/>mented with the Devil and his Angels.</hi>
+               </p>
+               <div type="application">
+                  <pb facs="tcp:31880:19"/>
+                  <head>Application.</head>
+                  <p>ANd ſo I now come in the laſt place to wind up all in a word of Appli<g ref="char:EOLhyphen"/>cation, both to Parents and Chil<g ref="char:EOLhyphen"/>dren; and then in the firſt place, if it be the duty of Parents to inſtruct their Children in the fear of God, then you may ob<g ref="char:EOLhyphen"/>ſerve from hence the great wickedneſs of ſuch wicked Parents, who inſtead of inſtructing their Children in the fear of God, bring them up in all manner of ſin and wickedneſs: How many ſuch wicked Parents are there in the World, who forbid their Children to hear Sermons, and to read good Books, but on the contrary, teach their Children to deſpiſe Holineſs, and encourage them in all man<g ref="char:EOLhyphen"/>ner of wickedneſs. Oh wretcked Sinner, hadſt thou rather have thy Child the Devils Child, then Gods Child? will you neither be Holy your ſelves, nor ſuffer your Children to be Holy? Will it not one day he miſerable enough, think you, to damn your own Soul, but muſt you alſo drive your Children to Hell before you? The Lord awaken all ſuch Parents. Is it not enough that you have made your Children the Children of Wrath,
+<pb facs="tcp:31880:19"/>as all Men, Women, and Children are by nature, for as holy <hi>David</hi> ſaid, ſo may we all, <hi>We are conceived in ſin, and in In<g ref="char:EOLhyphen"/>iquity were we brought forth,</hi> But will ye alſo hinder them from being made Chil<g ref="char:EOLhyphen"/>dren of Grace? are not your Children prone enought to ſin of themſelves, but muſt you alſo help on their Damnation? are there not Devils enough to tempt them to ſin, but muſt you alſo prove Devils incarnate to them your ſelves? are not your Children always near enough, even at the brink of Hell, and will ye alſo ſeek to tumble them into the Lake of Fire? do you think the way to Heaven is to deſpiſe Preaching, and to mock at Holineſs? ought not you to be nurſing Fathers, and nurſing Mothers to your Children, and will you nurſe them up for the Devil? Let wicked Parents conſi<g ref="char:EOLhyphen"/>der and tremble.</p>
+                  <p>Secondly, Here is alſo a uſe of comfort for all Gods Children, they that fear God, and ſpend their time in Reading and Pray<g ref="char:EOLhyphen"/>ing, they ſhall for ever be Singing Praiſes and Hallelujahs to God in Heaven, where thou ſhalt be with God and Chriſt, Saints and Angels to all Eternity, when thoſe Wicked Children who delight in nothing
+<pb facs="tcp:31880:20"/>but Swearing and Lying, who deſpiſe Ho<g ref="char:EOLhyphen"/>lineſs, and would not walk in thy ways of God, ſhall be ſent to Hell with a, <hi>Go ye Curſed into Everlaſting fire prepared for the Devil and his Angels:</hi> Ah! poor Crea<g ref="char:EOLhyphen"/>tures, they delighted in Curſing, and now they are Curſed: they deſpiſed Holineſs, but now they are deſpiſed themſelves: this ſhall he the portion of all the wicked, they ſhall be tumbled into Hell, when Gods Children ſhall be received into Heaven. I beſeith you then as you love your own precious Souls, if you would eſcape this Hell. if you would enjoy this Heaven, then for the Lords ſake, Children, be Holy, pray Morning and E<g ref="char:EOLhyphen"/>vening, obey your Parents, love God, ſerve him with all your Souls. if ye do thus, and he thus, then bleſſed ſhall ye be: for Chriſt ſhall ſay unto you. <hi>Come ye bleſſed of my Father, inherit the Kingdom prepared for you from the foundation of the world:</hi> unto which Kingdom the Lord bring us all, <hi>Amen.</hi>
+                  </p>
+                  <p>Now for the fuctlerance of Holineſs, I have here thought fit to inſert a very Godly Morning and Evening Prayer, to be uſed in Families.</p>
+               </div>
+            </div>
+            <div type="prayer">
+               <pb facs="tcp:31880:20"/>
+               <head>A Morning Prayer for a Family.</head>
+               <p>ALmighty God, moſt merciful Father, we do not preſent our ſelves here before thy Majeſty, truſting in our own meries, or Worthineſs, but in thy manifold mercies, which haſt promiſed to hear our Prayers, and grant our requeſts which we ſhall make to thee in the Name of thy beloved Son, Ie<g ref="char:EOLhyphen"/>ſus Chriſt our Lord; who hath alſo com<g ref="char:EOLhyphen"/>manded us to aſſemble our ſelves together in his Name, with full aſſurance that he will not only be amongſt us, but al<g ref="char:EOLhyphen"/>ſo be our Mediator and Advocate towards thy Majeſty, that he may obtain all things which ſhall ſeem expedient to thy bleſſed will for our Neceſſities: Therefore we be<g ref="char:EOLhyphen"/>ſeech thee moſt merciful Father, to turn thy loving Countenance towards us, and impute not to us our manifold ſins and Offences, where we may juſtly deſerve the wrath and ſharp puniſhment; but rather receive us to thy mercy for Ieſus Chriſt's ſake, accepting his Death and Paſſion as a juſt recompence for all our Offences, in whom onely thou art pleaſed, and through whom thou canſt not be offended with us, and ſeeing of thy great Mercies, we have
+<pb facs="tcp:31880:21"/>quietly paſſed this night: grant, O Heaven<g ref="char:EOLhyphen"/>ly Father, that we may beſtow this day wholly in thy ſervice, ſo that our thoughts, words, and deeds, may redound to the glory of thy name, and good example of all Men, who ſeeing our good works, may glorifie thee our Heavenly Father. And foraſmuch as of thy meer favour and love, thouhaſt not only treated us in thy own ſimilitude and likeneſs, but alſo haſt choſen us to be Heirs with thy dear Son Ieſus Chriſt, of that immortal Kingdom which thou prepa<g ref="char:EOLhyphen"/>redſt for us before the beginning of the world: we beſeech thee to increaſe our faith and knowledge, and to enlighten our hearts with thy holy Spirit: that we may in the mean time live in Godly Converſation and integrity of life, knowing that Idolators Adulterers, covetous men, contentious per<g ref="char:EOLhyphen"/>ſons, Drunkards, Gluttons, and ſuch like, ſhall not inherit the Kingdom of God. And becauſe thou haſt commanded us to Pray one for another, we do not only make requeſt, O Lord, for our ſelves, and for them that thou haſt already called to the true underſtanding of thy Heavenly Will, but for all people and nations of the world, who as they know by the wonderful works,
+<pb facs="tcp:31880:21"/>thou art God over all, ſo they may be in<g ref="char:EOLhyphen"/>ſtituted by thy Holy Spirit, to believe in thee their only Saviour and Redeemer But foraſmuch as they cannot believe ex<g ref="char:EOLhyphen"/>cept they hear, nor cannot hear but by Preaching, and none can Preach except they be ſent, therefore, O Lord, raiſe up faithful diſtributers of thy Myſteries, who ſetting apart all worldly reſpects, may both in their life and Doctrine only ſeek thy Glory. Con<g ref="char:EOLhyphen"/>trarily confound Satan, Antichriſt, with all Hirelings, who thou haſt already caſt off into a Reprobate ſenſe, that they may not by Seas and Schiſms, Hereſies, and Errors, diſquiet thy little flock. O Lord, thy people <hi>Iſrael,</hi> many times by their Sins, provoked thine anger, and thou puniſhedſt them by thy juſt Judgement, yet though their Sins were never ſo grievous, if they once returned from their iniquity, thou re<g ref="char:EOLhyphen"/>cervedſt them to Mercy We therefore moſt wretched Sinners, bewail our mani<g ref="char:EOLhyphen"/>fold ſins; and earneſtly Repent us of our former wickedneſs and ngodly behaviour towards thee: and whereas we cannot of our ſeves purchaſe us our Pardon, yet we humbly beſeech thee for Ieſus Chriſt's ſake, to ſhew thy mercy upon us, and receive
+<pb facs="tcp:31880:22"/>us again to thy favour. Grant us, dear Father, theſe our requeſts, and all other things which are neceſſary for us, and thy whole Church, according to thy promiſe in Ieſus Chriſt our Lord; In whoſe name we beſeech thee, as he hath taught us, ſay<g ref="char:EOLhyphen"/>ing, <hi>Our Father, &amp;c.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <head>An Evening Prayer for a Family.</head>
+               <p>O Lord God, Father everlaſting and full of pitty, we acknowledge and confeſs that we be not worthy to lift up our eyes to Heaven, much leſs to preſent our ſelves before thy Majeſty, with Confidence that thou wilt hear our Prayers, and grant our Requeſts, if we conſider our own deſer<g ref="char:EOLhyphen"/>vings: For our Conſciences do accuſe us, and our Sins witneſs againſt us, and we know that thou art an upright Iudge, which doſt not juſtifie the ſinners and wicked men, but puniſheſt the faults of all ſuch as tranſgreſs thy Commandments. Yet moſt merciful Father, ſince it hath pleaſed thee to command us to caſt on thee in all our troubles and adverſities, promiſing even then to help us, when we feel our ſelves as it were, ſwallowed up of Death and deſparation, we utterly Renounce all
+<pb facs="tcp:31880:22"/>Worldly confidence, and flee to thy Sove<g ref="char:EOLhyphen"/>raign bounty; as our only ſtay and refuge: beſeeching thee not to call to remembrance our manifold ſins and wickedneſs, whereby we continually provoke thy wrath and indig<g ref="char:EOLhyphen"/>nation againſt us: Neither our Negligence and unkindneſs, which have neither worthily eſteemed, nor in our lives ſufficiently expreſs<g ref="char:EOLhyphen"/>ed the ſweet comfort of thy holy Goſpel re<g ref="char:EOLhyphen"/>vealed unto us; but rather to accept the obedience, and death of thy Son Ieſus Chriſt, who by offering up his body in Sa<g ref="char:EOLhyphen"/>crifice once for all, hath made a ſufficient recompence once for all our Sins. Have Mercy therefore upon us (O Lord) and for<g ref="char:EOLhyphen"/>give us our offences; teach us by thy holy Spirit, that we may rightly weigh them, and earneſtly repent for the ſame: And ſo much the rather. O Lord, becauſe that the Reprobate, and ſuch as thou haſt for<g ref="char:EOLhyphen"/>ſaken, cannot pleaſe thee, nor call upon thy Name; but the repenting heart, the ſorrowful mind, the Conſience oppreſſed, hung ring and thirſting for thy Grace, ſhall ever ſet forth thy proiſe and Glory. And al<g ref="char:EOLhyphen"/>beit we are but worms and duſt, yet thou art our Creator, and we the works of thy hands; yea, thou art our Father, and we thy
+<pb facs="tcp:31880:23"/>children, thou art our Shepherd, and we thy ſtock, thou art our Redeemer, and we thy people whom thou haſt bought: thou art our God, and we thine Inheritance, correct us not therefore in thine anger, O Lord, neither according to out deſerts, puniſh us, but mercifully Chaſtiſe us with a Fatherly affection. Finally, foraſmuch as it hath pleaſed thee to make the Night for Man to reſt in, as thou haft ordained him the Day to Travel in: Grant, O dear father, that we may ſo take our bodily reſt that our Souls may continually watch for the time that our Lord Ieſus Chriſt ſhall appear for our deliverance out of this Mortal life, and in the mean ſeaſon, that we, not overcome by any fantaſies, dreams, or other temptati<g ref="char:EOLhyphen"/>ons, may fully ſet our minds upon thee, love thee, feat thee, and reſt in thee: furthermore that out ſleep be not exceſſive or overmuch, after the inſatiable deſires of our fleſh, but only ſufficient to content our weak natures, that we may be better diſpoſed to live in all Godly Converſation, to the Glory of thy Holy Name, and profit of our Brethren; <hi>Amen.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publisher_to_the_reader">
+            <pb facs="tcp:31880:23"/>
+            <opener>
+               <salute>Courteous READER,</salute>
+            </opener>
+            <p>THere is lately publiſhed an Excellent and profitable Sermon, called, The Chriſtians bleſſed choice. Likewiſe Chriſts firſt Sermon; alſo Chriſt's laſt Sermon, and the Chriſtians beſt Garment. Alſo Hea<g ref="char:EOLhyphen"/>vens Glory, and Hells Horror. And a War<g ref="char:EOLhyphen"/>ning: piece to the ſloathful, idle, careleſs, drunken, and ſecure ones of theſe laſt and worſt of times. Very Godly Books, and are but three-pence a piece.</p>
+            <p>Likewiſe:
+<list>
+                  <item>1. Englands Faithful Phyſitian.</item>
+                  <item>2. The dreadful Character of a Drunk<g ref="char:EOLhyphen"/>ard.</item>
+                  <item>3. Dooms-day at hand.</item>
+                  <item>4. The Father's laſt Bleſſing to his Chil<g ref="char:EOLhyphen"/>dren.</item>
+                  <item>5. The Black Book of Conſcience.</item>
+                  <item>6. The ſin of Pride Arraign'd and Con<g ref="char:EOLhyphen"/>demn'd.</item>
+                  <item>7. The Plain-man's plain Path-way to Heaven.</item>
+                  <item>8. Death Triumphant.</item>
+                  <item>9. The Charitable Chriſtian.</item>
+               </list>
+            </p>
+            <p>
+               <hi>All theſe Books written by</hi> John Hart, <hi>Dr. of Divinity, and are to be Sold by</hi> W. Thackeray, <hi>and</hi> T. Paſſinger.</p>
+            <p>
+               <hi>All very neceſſary for theſe Licentious Times.</hi>
+            </p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:31880:24"/>
+            <p>
+               <figure/>
+            </p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:31880:24"/>
+            <p>
+               <figure>
+                  <p>The Royall Oake</p>
+               </figure>
+            </p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:31880:25"/>
+            <p>
+               <figure/>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
